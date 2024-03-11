@@ -5,7 +5,8 @@
 
             <div class="mb-6 md:mb-0 md:w-1/3">
                 <a href="" class="grid items-center justify-center text-center">
-                    <img class="mx-auto" src="{{ URL('images/logo.png')}}" alt="Logo Image">
+                    <p class="text-[25px] font-bold text-blue-600">ECOM</p>
+
                     <p class="mt-4  text-center text-black">Lorem Ipsum Dolor Sit<br> Amet, Consectetur</p>
                 </a>
             </div>
@@ -41,7 +42,8 @@
                         </li>
                         <li class="flex mb-4 ml-12 md:ml-0">
                             <img class="w-5 h-5" src="{{ URL('images/email.png')}}">
-                            <a href="mailto:info@8848supplies.com.au" class="ml-2 hover:underline">info@8848supplies.com.au</a>
+                            <a href="mailto:info@ECOMsupplies.com.au" class="ml-2 hover:underline">info@ECOMsupplies.com.au</a>
+
                         </li>
                         <li class="flex mb-4 ml-20 md:ml-0">
                             <img class="w-5 h-5" src="{{ URL('images/telephone.png')}}">
